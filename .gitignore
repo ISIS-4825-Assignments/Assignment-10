@@ -1,2 +1,4 @@
 data/
+runs/
 kaggle.json
+*.pt
