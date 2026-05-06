@@ -1,0 +1,8 @@
+kaggle
+ultralytics
+pandas
+matplotlib
+Pillow
+numpy
+ipython
+jupyter
